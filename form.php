@@ -20,9 +20,9 @@
         $displaymessage = '<div class="alert alert-danger" role="alert"><p>There were error(s) in your form:</p>' . $displaymessage . '</div>';
     }
     else {
-      $recipient="boost.me.ptyltd@gmail.com";
+      $recipient="email_obscured_for_github";
       $webname="Boost Me";
-      $webemail="boostme@boostmeptyltd.com";
+      $webemail="email_obscured_for_github";
       $subject="Email message from Boost Me website.";
       $sender=$_POST["sender"];
       $senderEmail=$_POST["senderEmail"];
