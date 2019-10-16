@@ -1,0 +1,93 @@
+body{
+  margin: 0;
+  color:#35363A;
+  text-align: left;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+h1{
+  font-family: 'Questrial', sans-serif;
+  color: #138496;
+}
+h2{
+  font-family: 'Vollkorn SC', serif;
+  color: #138496;
+}
+h3{
+  font-family: 'Questrial', sans-serif;
+  font-weight: bold;
+  color: #138496;
+  text-align: center;
+  border: 1px solid green ;
+
+}
+
+hr{
+  border-style:none;
+  border-top-style: solid;
+  border-width: 10px;
+  border-color: #35363A;
+  margin: 0;
+  width: 100%;
+}
+ul{
+  color: #35363A;
+  font-family: 'Questrial', sans-serif;
+  padding-left: 0;
+}
+li{
+  padding-bottom:5px;
+}
+p{
+  font-family: 'Questrial', sans-serif;
+}
+a{
+  color: #757575;
+  font-family: 'Montserrat', sans-serif;
+}
+a:hover{
+  color: #EAF6F6;
+}
+.badge-info{
+  background-color:#138496;
+}
+.btn-info{
+  background-color:#138496;
+}
+.top-container{
+/*  background-color: gray;*/
+  text-align: center;
+  padding: 0;
+  position: relative;
+}
+
+.content-container{
+  margin: 10px auto 10px auto;
+  padding: 1% 10%;
+}
+.footer-container{
+  background-color: #35363A;
+  padding: 30px 0 20px;
+  text-align: center;
+  margin: 0;
+  bottom:0;
+}
+.footer-link{
+  font-weight: bold;
+  padding: 10px;
+  text-decoration: none;
+}
+.copyright{
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 10px 0 10px 0;
+}
+.logo-image {
+  width: 60%;
+  position: relative;
+
+}
+.bluehr{
+    border-color: #138496;
+}
